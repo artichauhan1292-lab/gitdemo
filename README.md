@@ -1,4 +1,4 @@
 # gitdemo
 learn git basics
 <br>
-Author - Arti Chauhan
+Author - Arti Chauhan (Devgiops)
